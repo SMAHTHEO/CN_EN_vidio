@@ -1,0 +1,19 @@
+1
+00:00:05,600 --> 00:00:11,190
+hello and welcome to the second video of the first lecture. In this video we will
+
+2
+00:00:11,200 --> 00:00:17,590
+have a brief look and introduction to computer programs and instructions. In a sense
+
+3
+00:00:17,600 --> 00:00:23,190
+we will learn how the computer operates from a high level perspective and how our
+
+4
+00:00:23,200 --> 00:00:28,790
+program and instructions that we program and write can actually be executed from
+
+5
+00:00:30,200 --> 00:00:32,790
+the processor or computer.

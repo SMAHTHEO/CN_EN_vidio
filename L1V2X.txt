@@ -1,0 +1,24 @@
+1
+00:00:05,600 --> 00:00:11,190
+大家好，欢迎收看第一节课的第二段视频。在本视频中，我们将
+hello and welcome to the second video of the first lecture. In this video we will
+
+2
+00:00:11,200 --> 00:00:17,590
+简要介绍计算机程序和指令。在某种意义上
+have a brief look and introduction to computer programs and instructions. In a sense
+
+3
+00:00:17,600 --> 00:00:23,190
+我们将从高水平的角度学习计算机如何运行，以及我们的
+we will learn how the computer operates from a high level perspective and how our
+
+4
+00:00:23,200 --> 00:00:28,790
+我们编程和编写的程序和指令实际上可以从
+program and instructions that we program and write can actually be executed from
+
+5
+00:00:30,200 --> 00:00:32,790
+处理器或计算机。
+the processor or computer.
