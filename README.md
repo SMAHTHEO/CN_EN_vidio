@@ -27,7 +27,7 @@ rename(LecNamber)
 
 # V0.1
 
-1. 基础翻译 -- baidu
-2. 读取写入文件 -- os
+> 1. 基础翻译 -- baidu
+> 2. 读取写入文件 -- os
 
 ---
