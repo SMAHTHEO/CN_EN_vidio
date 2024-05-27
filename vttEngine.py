@@ -1,6 +1,6 @@
 
 import os
-from Engine import Trans
+from Engine import Trans, Trans_deepl
 
 
 # 为文件内字母开头的行进行翻译
@@ -13,7 +13,7 @@ def Transvtt(file):
         line = f.readline()
         while line != "":
             if line[0] in Chr:
-                lineCN = Trans(line)
+                lineCN = Trans_deepl(line)
                 str += (lineCN)
             str += (line)
             line = f.readline()
